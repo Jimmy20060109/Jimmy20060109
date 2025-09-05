@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!-- Banner（可选）：在 /assets 里放一张横幅图，然后把下面注释打开 -->
+
 <!-- <p align="center"><img src="./assets/banner.png" alt="Jimmy's banner" width="100%"></p> -->
 
 <h1 align="center">Hi, I'm Jimmy 👋</h1>
