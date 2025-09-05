@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Jimmy20060109/Jimmy20060109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner（可选）：在 /assets 里放一张横幅图，然后把下面注释打开 -->
+<!-- <p align="center"><img src="./assets/banner.png" alt="Jimmy's banner" width="100%"></p> -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Jimmy 👋</h1>
+<p align="center">
+  Data Science @ Waterloo ✨
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+- ☕ Turning coffee into compilers, games, and automation scripts.
+- 🌀 Helped transform LabVIEW’s visual blocks into machine code (compiler pipeline fun).
+- 🤖 I automate… pretty much everything (n8n + Docker + ComfyUI), including cartoon avatars from photos.
+- 🌐 I build on the web (VolunTrack, personal site, small experiments).
+- 🧪 I like writing tiny test runners and bash tools that keep me honest.
+- 🎯 Forever learning. Forever tinkering.
+
+### What I'm building
+- ✨ Small tools that remove tiny daily frictions.
+- 🎮 Mini web games (because bugs are more fun when they chase you back).
+- 📚 Notes & write-ups so future-me says “thanks”.
+
+
+### Find me
+- 🌎 Website: https://jimmy20060109.github.io/Personal-Website/
+- 💼 LinkedIn: https://www.linkedin.com/in/jinjuezheng-368226306
+
