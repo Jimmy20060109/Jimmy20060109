@@ -24,6 +24,6 @@
 
 
 ### Find me
-- 🌎 Website: https://jimmy20060109.github.io/Personal-Website/
+- 🌎 Website: https://www.jinjuezheng.com
 - 💼 LinkedIn: https://www.linkedin.com/in/jinjuezheng-368226306
 
