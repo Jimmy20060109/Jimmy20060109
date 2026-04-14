@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Jimmy 👋</h1>
 <p align="center">
-  Data Science @ Waterloo ✨
+  Data Science @ UWaterloo ✨
 </p>
 
 ---
